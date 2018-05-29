@@ -9,7 +9,7 @@ public class DupElements {
 				
 			
 			if(a[i]==a[j]){
-				
+				System.out.println("Testing the code change");
 			}}
 		}
 
